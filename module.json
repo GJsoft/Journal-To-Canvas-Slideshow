@@ -17,7 +17,7 @@
     "compatibility": {
         "minimum": 9,
         "verified": 10,
-        "maximum": 10
+        "maximum": 11
     },
     "relationships": [
         {
